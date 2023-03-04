@@ -20,6 +20,9 @@ Thank you for visiting my profile! My name is Roy and I am an Information and Co
 **Contact:**
  - royl@kth.se
 
+### Languages I have worked with:
+[![My Skills](https://skillicons.dev/icons?i=java,c,latex,postgres,elixir,matlab)](https://skillicons.dev)
+
 ### Courses in progress:
  - Active Career
  - Networks and Communication
@@ -30,5 +33,3 @@ Thank you for visiting my profile! My name is Roy and I am an Information and Co
  - ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`
  - ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`
  - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
-
-**in progress!**
