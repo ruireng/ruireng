@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- is this a comment? -->
-Thank you for visiting my profile! My name is Roy Liu and I am an Information and Communication Technology Engineering student at KTH Royal Institute of Technology.
+Thank you for visiting my profile! My name is Roy and I am an Information and Communication Technology Engineering student at KTH Royal Institute of Technology.  
+  
+**Contact:**
+ - royl@kth.se
 
-Courses in progress:
+### Courses in progress:
  - Active Career
  - Networks and Communication
  - Numerical Methods, Basic Course
  - Programming II
 
-Currently working with:
- - Java
- - Elixir
- - MATLAB
+### Currently working with:
+ - ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`
+ - ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`
+ - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruisnake&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-**in progress**
+**in progress!**
