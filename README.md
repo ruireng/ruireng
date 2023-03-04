@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- is this a comment? -->
-Welcome to my profile! My name is Roy Liu and I am an Information and Communication Technology Engineering student at KTH Royal Institute of Technology.
+Thank you for visiting my profile! My name is Roy Liu and I am an Information and Communication Technology Engineering student at KTH Royal Institute of Technology.
 
 Courses in progress:
  - Active Career
