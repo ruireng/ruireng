@@ -15,4 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- is this a comment? -->
+Welcome to my profile! My name is Roy Liu and I am an Information and Communication Technology Engineering student at KTH Royal Institute of Technology.
+
+Courses in progress:
+ - Active Career
+ - Networks and Communication
+ - Numerical Methods, Basic Course
+ - Programming II
+
+Currently working with:
+ - Java
+ - Elixir
+ - MATLAB
+
 **in progress**
