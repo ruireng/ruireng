@@ -36,3 +36,7 @@ I mainly use Github to store and show projects I have worked on. I also store in
  - ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`
  - ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`
  - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
+
+Thank you for reading and have an excellent rest of your day.
+
+*Last updated: March 5th, 2023*
