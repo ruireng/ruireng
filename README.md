@@ -21,7 +21,7 @@ Thank you for visiting my profile! My name is Roy and I am an Information and Co
  - royl@kth.se
 
 ### What I do on Github:
-I mainly use Github to store and show projects I have worked on. I also store individual programming assigments from the courses I take in (currently) private repositories.
+I mainly use Github to store and show projects I have worked on. I also store individual programming assigments from the courses I take/have taken in (currently) private repositories.
 
 ### Languages I have worked with:
 [![My Skills](https://skillicons.dev/icons?i=java,c,latex,postgres,elixir,matlab&theme=light)](https://skillicons.dev)
