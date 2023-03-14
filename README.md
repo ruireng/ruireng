@@ -23,8 +23,17 @@ Thank you for visiting my profile! My name is Roy and I am an Information and Co
 ### What I do on Github:
 I mainly use Github to store and show projects I have worked on. I also store individual programming assigments from the courses I take/have taken in (currently) private repositories.
 
-### Languages I have worked with:
-[![My Skills](https://skillicons.dev/icons?i=java,c,latex,postgres,elixir,matlab&theme=light)](https://skillicons.dev)
+### Languages and tools I have worked with:
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,c,latex,postgres,elixir,matlab&theme=light)](https://skillicons.dev) -->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg" title="elixir" alt="elixir" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+  
+<div>
 
 ### Courses in progress:
  - Active Career
@@ -37,4 +46,4 @@ I mainly use Github to store and show projects I have worked on. I also store in
  - ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`
  - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
 
-*Last updated: March 6th, 2023*
+*Last updated: March 14th, 2023*
