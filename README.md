@@ -36,14 +36,12 @@ I mainly use Github to store and show projects I have worked on. I also store in
 <div>
 
 ### Courses in progress:
- - Active Career
- - Networks and Communication
  - Numerical Methods, Basic Course
- - Programming II
+ - Under the Hood of Machine Learning - The Basics
 
 ### Currently working with:
- - ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`
- - ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`
+ <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->
+ <!--- ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`-->
  - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
 
-*Last updated: March 14th, 2023*
+*Last updated: March 17th, 2023*
