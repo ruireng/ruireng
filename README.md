@@ -32,7 +32,7 @@ I mainly use Github to store and show projects I have worked on. I also store in
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg" title="elixir" alt="elixir" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   
 <div>
 
@@ -43,6 +43,6 @@ I mainly use Github to store and show projects I have worked on. I also store in
  <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->
  <!--- ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`-->
  - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
- <!--- ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`-->
+ - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`
 
 *Last updated: March 19th, 2023*
