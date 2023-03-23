@@ -38,6 +38,7 @@ I mainly use Github to store and show projects I have worked on. I also store in
 
 ### Courses in progress:
  - Numerical Methods, Basic Course
+ - Project in Information and Communication Technology
 
 ### Currently working with:
  <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->
@@ -45,4 +46,4 @@ I mainly use Github to store and show projects I have worked on. I also store in
  - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
  - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`
 
-*Last updated: March 19th, 2023*
+*Last updated: March 23th, 2023*
