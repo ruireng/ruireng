@@ -43,8 +43,9 @@ I mainly use Github to store and show projects I have worked on. I also store in
 
 ### Currently working with:
  <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->
+ <!--- ![#e38c00](https://placehold.co/15x15/e38c00/e38c00.png) `SQL`-->
  <!--- ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`-->
  - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
  - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`
 
-*Last updated: March 25th, 2023*
+*Last updated: March 26th, 2023*
