@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- is this a comment? -->
-Thank you for visiting my profile! My name is Roy and I am Computer Engineering student at KTH Royal Institute of Technology.  
+Thank you for visiting my profile! My name is Roy and I am a Computer Engineering student at KTH Royal Institute of Technology.  
   
 **Contact:**
  - royl@kth.se
