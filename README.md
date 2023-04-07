@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- is this a comment? -->
-Thank you for visiting my profile! My name is Roy and I am an Information and Communication Technology Engineering student at KTH Royal Institute of Technology.  
+Thank you for visiting my profile! My name is Roy and I am Computer Engineering student at KTH Royal Institute of Technology.  
   
 **Contact:**
  - royl@kth.se
@@ -50,4 +50,4 @@ I mainly use Github to store and show projects I have worked on. I also store in
  - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
  - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`
 
-*Last updated: March 26th, 2023*
+*Last updated: April 7th, 2023*
