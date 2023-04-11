@@ -32,6 +32,7 @@ I mainly use Github to store and show projects I have worked on. I also store in
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   
@@ -48,6 +49,7 @@ I mainly use Github to store and show projects I have worked on. I also store in
  <!--- ![#e38c00](https://placehold.co/15x15/e38c00/e38c00.png) `SQL`-->
  <!--- ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`-->
  - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
+ <!--- ![#083fa1](https://placehold.co/15x15/083fa1/083fa1.png) `Markdown`-->
  - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`
 
-*Last updated: April 7th, 2023*
+*Last updated: April 11th, 2023*
