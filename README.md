@@ -42,6 +42,7 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
 </div>
     
 ### Courses in progress:
@@ -61,6 +62,6 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#e34c26](https://placehold.co/15x15/e34c26/e34c26.png) `HTML`-->
  <!--- ![#f1e05a](https://placehold.co/15x15/f1e05a/f1e05a.png) `Javascript`-->
  <!--- ![#563d7c](https://placehold.co/15x15/563d7c/563d7c.png) `CSS`-->
- <!--- ![#DA5B0B](https://placehold.co/15x15/DA5B0B/DA5B0B.png) `Jupyter Notebook`-->
+ - ![#DA5B0B](https://placehold.co/15x15/DA5B0B/DA5B0B.png) `Jupyter Notebook`
 
-*Last updated: May 15th, 2023*
+*Last updated: May 16th, 2023*
