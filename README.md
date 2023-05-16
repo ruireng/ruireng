@@ -21,6 +21,7 @@ Thank you for visiting my profile! My name is Roy and I am a second year Compute
  - royl@kth.se  
 
 ### My projects:
+Under **Made With**, you can hover over the colored boxes to see what languages were used for each project.
 | Project Name | Course Name | Description | Team Size | Made With | Keywords |
 | --- | --- | --- | :---: | :---: | --- |
 | [Soundgood Music School](https://github.com/ruisnake/ProjectMusicSchool) | [IV1351 Data Storage Paradigms](https://www.kth.se/student/kurser/kurs/IV1351?l=en) | A database created for a fictional music school by the name *Soundgood Music School*. | 2 | <img src="https://placehold.co/15x15/e38c00/e38c00.png" title="SQL" alt="SQL" width="15" height="15"/>&nbsp; | Database |  
