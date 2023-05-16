@@ -21,13 +21,13 @@ Thank you for visiting my profile! My name is Roy and I am a second year Compute
  - royl@kth.se  
 
 ### My projects:
-| Project Name | Course Name | Description | Team Size | Technologies Used |
-| --- | --- | --- | :---: | --- |
-| [Soundgood Music School](https://github.com/ruisnake/ProjectMusicSchool) | [IV1351 Data Storage Paradigms](https://www.kth.se/student/kurser/kurs/IV1351?l=en) | A database created for a fictional music school by the name *Soundgood Music School*. | 2 | Astah, pgAdmin 4, SQL |  
-| [Snake](https://github.com/ruisnake/ProjectSnake) | [IS1200 Computer Hardware Engineering](https://www.kth.se/student/kurser/kurs/IS1200?l=en) | The classical game Snake made for the UNO32 ChipKIT Microcontroller. | 2 | UNO32 ChipKIT, C, Assembly |  
-| [Socket Programming](https://github.com/ruisnake/ProjectSocketProgramming) | [IK1203 Networks and Communication](https://www.kth.se/student/kurser/kurs/IK1203?l=en) | A local server capable of returning data from other servers and handling basic HTTP errors. | Solo | Java |  
-| [Numerical Analysis: Dart Throwing](https://github.com/ruisnake/ProjectDartThrowing) | [SF1546 Numerical Methods, Basic Course](https://www.kth.se/student/kurser/kurs/SF1546?l=en) | A project where different numerical methods were used to find the trajectory of a dart throw. | 2 | MATLAB |  
-| [Swedish Talent Monitor]() | [II1305 Project in Information and Communication Technology](https://www.kth.se/student/kurser/kurs/II1305?l=en) | A dashboard that can be used as a statistical tool for analyzing the demand in the Swedish job market. An external project made for [Future Place Leadership](https://futureplaceleadership.com/). | 9 | SQL, Python, HTML, CSS, JavaScript |  
+| Project Name | Course Name | Description | Team Size | Made With | Keywords |
+| --- | --- | --- | :---: | :---: | --- |
+| [Soundgood Music School](https://github.com/ruisnake/ProjectMusicSchool) | [IV1351 Data Storage Paradigms](https://www.kth.se/student/kurser/kurs/IV1351?l=en) | A database created for a fictional music school by the name *Soundgood Music School*. | 2 | <img src="https://placehold.co/15x15/e38c00/e38c00.png" title="SQL" alt="SQL" width="15" height="15"/>&nbsp; | Database, PostgreSQL, Astah, pgAdmin 4 |  
+| [Snake](https://github.com/ruisnake/ProjectSnake) | [IS1200 Computer Hardware Engineering](https://www.kth.se/student/kurser/kurs/IS1200?l=en) | The classical game Snake made for the UNO32 ChipKIT Microcontroller. | 2 | <img src="https://placehold.co/15x15/555555/555555.png" title="C" alt="C" width="15" height="15"/>&nbsp;<br /><img src="https://placehold.co/15x15/6E4C13/6E4C13.png" title="Assembly" alt="Assembly" width="15" height="15"/>&nbsp; | UNO32 ChipKIT, C, Assembly |  
+| [Socket Programming](https://github.com/ruisnake/ProjectSocketProgramming) | [IK1203 Networks and Communication](https://www.kth.se/student/kurser/kurs/IK1203?l=en) | A local server capable of returning data from other servers and handling basic HTTP errors. | Solo | <img src="https://placehold.co/15x15/b07219/b07219.png" title="Java" alt="Java" width="15" height="15"/>&nbsp; | Java, Localhost, Server Socket |  
+| [Numerical Analysis: Dart Throwing](https://github.com/ruisnake/ProjectDartThrowing) | [SF1546 Numerical Methods, Basic Course](https://www.kth.se/student/kurser/kurs/SF1546?l=en) | A project where different numerical methods were used to find the trajectory of a dart throw. | 2 | <img src="https://placehold.co/15x15/e16737/e16737.png" title="MATLAB" alt="MATLAB" width="15" height="15"/>&nbsp; | MATLAB, Numerical Analysis |  
+| [Swedish Talent Monitor]() | [II1305 Project in Information and Communication Technology](https://www.kth.se/student/kurser/kurs/II1305?l=en) | A dashboard that can be used as a statistical tool for analyzing the demand in the Swedish job market. An external project made for [Future Place Leadership](https://futureplaceleadership.com/). | 9 | <img src="https://placehold.co/15x15/3572A5/3572A5.png" title="Python" alt="Python" width="15" height="15"/>&nbsp;<br /><img src="https://placehold.co/15x15/f1e05a/f1e05a.png" title="Javascript" alt="Javascript" width="15" height="15"/>&nbsp;<br /><img src="https://placehold.co/15x15/563d7c/563d7c.png" title="CSS" alt="CSS" width="15" height="15"/>&nbsp;<br /><img src="https://placehold.co/15x15/e34c26/e34c26.png" title="HTML" alt="HTML" width="15" height="15"/>&nbsp;<br /><img src="https://placehold.co/15x15/e38c00/e38c00.png" title="SQL" alt="SQL" width="15" height="15"/>&nbsp; | Web Scraping, Statistics, Python, Javascript, CSS, HTML, SQL |  
 
 ### Languages and tools I have worked with:
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,c,latex,postgres,elixir,matlab&theme=light)](https://skillicons.dev) -->
@@ -50,11 +50,16 @@ Thank you for visiting my profile! My name is Roy and I am a second year Compute
 ### Currently working with:
  <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->  
  <!--- ![#555555](https://placehold.co/15x15/555555/555555.png) `C`-->  
+ <!--- ![#6E4C13](https://placehold.co/15x15/6E4C13/6E4C13.png) `Assembly`-->
  <!--- ![#3D6117](https://placehold.co/15x15/3D6117/3D6117.png) `TeX`-->  
  <!--- ![#e38c00](https://placehold.co/15x15/e38c00/e38c00.png) `SQL`-->  
  <!--- ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`-->  
  <!--- ![#083fa1](https://placehold.co/15x15/083fa1/083fa1.png) `Markdown`-->  
  - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
  <!--- ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`-->  
+ <!--- ![#e34c26](https://placehold.co/15x15/e34c26/e34c26.png) `HTML`-->
+ <!--- ![#f1e05a](https://placehold.co/15x15/f1e05a/f1e05a.png) `Javascript`-->
+ <!--- ![#563d7c](https://placehold.co/15x15/563d7c/563d7c.png) `CSS`-->
+ <!--- ![#DA5B0B](https://placehold.co/15x15/DA5B0B/DA5B0B.png) `Jupyter Notebook`-->
 
 *Last updated: May 15th, 2023*
