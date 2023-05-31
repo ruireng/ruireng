@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- is this a comment? -->
-Thank you for visiting my profile! My name is Roy and I am a second year Computer Engineering student at KTH Royal Institute of Technology.  
+My name is Roy and I am a second year Computer Engineering student at KTH Royal Institute of Technology.  
   
 **Contact:**
  - royl@kth.se  
@@ -47,7 +47,7 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
     
 ### Courses in progress:
  - Numerical Methods, Basic Course
- - Project in Information and Communication Technology
+ <!--- Project in Information and Communication Technology-->
  <!--- Programming for Effective Problem Solving-->
 
 ### Currently working with:
@@ -67,4 +67,4 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#dea584](https://placehold.co/15x15/dea584/dea584.png) `Rust`-->  
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
 
-*Last updated: May 23rd, 2023*
+*Last updated: May 31st, 2023*
