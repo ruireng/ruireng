@@ -48,10 +48,10 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
 ### Courses in progress:
  - Numerical Methods, Basic Course
  <!--- Project in Information and Communication Technology-->
- <!--- Programming for Effective Problem Solving-->
+ - Programming for Effective Problem Solving
 
 ### Currently working with:
- <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->  
+ - ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java` 
  <!--- ![#555555](https://placehold.co/15x15/555555/555555.png) `C`-->  
  <!--- ![#6E4C13](https://placehold.co/15x15/6E4C13/6E4C13.png) `Assembly`-->  
  <!--- ![#3D6117](https://placehold.co/15x15/3D6117/3D6117.png) `TeX`-->  
@@ -67,4 +67,4 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#dea584](https://placehold.co/15x15/dea584/dea584.png) `Rust`-->  
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
 
-*Last updated: May 31st, 2023*
+*Last updated: June 5th, 2023*
