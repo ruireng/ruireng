@@ -46,9 +46,9 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
 </div>
     
 ### Courses in progress:
- - Numerical Methods, Basic Course
- <!--- Project in Information and Communication Technology-->
  - Programming for Effective Problem Solving
+ <!--- Numerical Methods, Basic Course-->
+ <!--- Project in Information and Communication Technology-->
 
 ### Currently working with:
  - ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java` 
@@ -58,13 +58,14 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#e38c00](https://placehold.co/15x15/e38c00/e38c00.png) `SQL`-->  
  - ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`  
  <!--- ![#083fa1](https://placehold.co/15x15/083fa1/083fa1.png) `Markdown`-->  
- - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`  
+ <!--- ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`-->  
  <!--- ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`-->  
  <!--- ![#e34c26](https://placehold.co/15x15/e34c26/e34c26.png) `HTML`-->  
  <!--- ![#f1e05a](https://placehold.co/15x15/f1e05a/f1e05a.png) `Javascript`-->  
  <!--- ![#563d7c](https://placehold.co/15x15/563d7c/563d7c.png) `CSS`-->  
- - ![#DA5B0B](https://placehold.co/15x15/DA5B0B/DA5B0B.png) `Jupyter Notebook`  
+ <!--- ![#DA5B0B](https://placehold.co/15x15/DA5B0B/DA5B0B.png) `Jupyter Notebook`-->  
  <!--- ![#dea584](https://placehold.co/15x15/dea584/dea584.png) `Rust`-->  
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
+ - ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`
 
-*Last updated: June 5th, 2023*
+*Last updated: June 9th, 2023*
