@@ -43,6 +43,7 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 </div>
     
 ### Courses in progress:
@@ -68,4 +69,4 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
  - ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`
 
-*Last updated: June 9th, 2023*
+*Last updated: June 11th, 2023*
