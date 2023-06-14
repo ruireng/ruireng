@@ -34,6 +34,7 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,c,latex,postgres,elixir,matlab&theme=light)](https://skillicons.dev) -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://sap1emu.net/img/Docs/asm.svg" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -52,7 +53,7 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- Project in Information and Communication Technology-->
 
 ### Currently working with:
- - ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java` 
+ <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->  
  <!--- ![#555555](https://placehold.co/15x15/555555/555555.png) `C`-->  
  <!--- ![#6E4C13](https://placehold.co/15x15/6E4C13/6E4C13.png) `Assembly`-->  
  <!--- ![#3D6117](https://placehold.co/15x15/3D6117/3D6117.png) `TeX`-->  
@@ -60,7 +61,7 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  - ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`  
  <!--- ![#083fa1](https://placehold.co/15x15/083fa1/083fa1.png) `Markdown`-->  
  <!--- ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`-->  
- <!--- ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`-->  
+ - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`  
  <!--- ![#e34c26](https://placehold.co/15x15/e34c26/e34c26.png) `HTML`-->  
  <!--- ![#f1e05a](https://placehold.co/15x15/f1e05a/f1e05a.png) `Javascript`-->  
  <!--- ![#563d7c](https://placehold.co/15x15/563d7c/563d7c.png) `CSS`-->  
@@ -69,4 +70,4 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
  - ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`
 
-*Last updated: June 11th, 2023*
+*Last updated: June 14h, 2023*
