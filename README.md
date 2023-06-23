@@ -45,6 +45,9 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
     
 ### Courses in progress:
@@ -53,21 +56,28 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- Project in Information and Communication Technology-->
 
 ### Currently working with:
+ - ![#563d7c](https://placehold.co/15x15/563d7c/563d7c.png) `CSS`
+ - ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`
+ - ![#e34c26](https://placehold.co/15x15/e34c26/e34c26.png) `HTML`
+ - ![#f1e05a](https://placehold.co/15x15/f1e05a/f1e05a.png) `Javascript`
+ - ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`
+ - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`
+
  <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->  
  <!--- ![#555555](https://placehold.co/15x15/555555/555555.png) `C`-->  
  <!--- ![#6E4C13](https://placehold.co/15x15/6E4C13/6E4C13.png) `Assembly`-->  
  <!--- ![#3D6117](https://placehold.co/15x15/3D6117/3D6117.png) `TeX`-->  
  <!--- ![#e38c00](https://placehold.co/15x15/e38c00/e38c00.png) `SQL`-->  
- - ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`  
+ <!--- ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`-->  
  <!--- ![#083fa1](https://placehold.co/15x15/083fa1/083fa1.png) `Markdown`-->  
  <!--- ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`-->  
- - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`  
- <!--- ![#e34c26](https://placehold.co/15x15/e34c26/e34c26.png) `HTML`-->  
- <!--- ![#f1e05a](https://placehold.co/15x15/f1e05a/f1e05a.png) `Javascript`-->  
- <!--- ![#563d7c](https://placehold.co/15x15/563d7c/563d7c.png) `CSS`-->  
+ <!--- ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`-->   
+ <!--- ![#f1e05a](https://placehold.co/15x15/f1e05a/f1e05a.png) `Javascript`-->
+ <!--- ![#e34c26](https://placehold.co/15x15/e34c26/e34c26.png) `HTML`-->
+ <!--- ![#563d7c](https://placehold.co/15x15/563d7c/563d7c.png) `CSS`--> 
  <!--- ![#DA5B0B](https://placehold.co/15x15/DA5B0B/DA5B0B.png) `Jupyter Notebook`-->  
  <!--- ![#dea584](https://placehold.co/15x15/dea584/dea584.png) `Rust`-->  
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
- - ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`
+ <!--- ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`-->
 
-*Last updated: June 14h, 2023*
+*Last updated: June 23rd, 2023*
