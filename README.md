@@ -56,12 +56,8 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- Project in Information and Communication Technology-->
 
 ### Currently working with:
- - ![#563d7c](https://placehold.co/15x15/563d7c/563d7c.png) `CSS`
  - ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`
- - ![#e34c26](https://placehold.co/15x15/e34c26/e34c26.png) `HTML`
- - ![#f1e05a](https://placehold.co/15x15/f1e05a/f1e05a.png) `JavaScript`
  - ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`
- - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`
 
  <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->  
  <!--- ![#555555](https://placehold.co/15x15/555555/555555.png) `C`-->  
@@ -80,4 +76,4 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
  <!--- ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`-->
 
-*Last updated: June 23rd, 2023*
+*Last updated: August 11th, 2023*
