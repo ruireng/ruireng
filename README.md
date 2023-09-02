@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- is this a comment? -->
-My name is Roy and I am a second year Computer Engineering student at KTH Royal Institute of Technology.  
+My name is Roy and I am a third year Computer Engineering student at KTH Royal Institute of Technology.  
   
 **Contact:**
  - royl@kth.se  
