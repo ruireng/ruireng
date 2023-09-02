@@ -51,13 +51,14 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
 </div>
     
 ### Courses in progress:
- - Programming for Effective Problem Solving
+ <!--- Programming for Effective Problem Solving-->
  <!--- Numerical Methods, Basic Course-->
  <!--- Project in Information and Communication Technology-->
+  - Probability Theory and Statistics
+  - Algorithms, Data Structures and Complexity
 
 ### Currently working with:
- - ![#6e4a7e](https://placehold.co/15x15/6e4a7e/6e4a7e.png) `Elixir`
- - ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`
+ - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
 
  <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->  
  <!--- ![#555555](https://placehold.co/15x15/555555/555555.png) `C`-->  
