@@ -58,6 +58,7 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
   - Algorithms, Data Structures and Complexity
 
 ### Currently working with:
+ - ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`
  - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
 
  <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->  
@@ -77,4 +78,4 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
  <!--- ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`-->
 
-*Last updated: September 2nd, 2023*
+*Last updated: October 8th, 2023*
