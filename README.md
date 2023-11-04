@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- is this a comment? -->
-My name is Roy and I am a third year Computer Engineering student at KTH Royal Institute of Technology.  
+My name is Roy and I am a third year student at KTH Royal Institute of Technology.  
   
 **Contact:**
  - royl@kth.se  
@@ -34,7 +34,7 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,c,latex,postgres,elixir,matlab&theme=light)](https://skillicons.dev) -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://sap1emu.net/img/Docs/asm.svg" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -54,12 +54,14 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- Programming for Effective Problem Solving-->
  <!--- Numerical Methods, Basic Course-->
  <!--- Project in Information and Communication Technology-->
-  - Probability Theory and Statistics
+ <!--- Probability Theory and Statistics-->
   - Algorithms, Data Structures and Complexity
+  - Operating Systems
+  - Internet Security and Privacy
 
 ### Currently working with:
  - ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`
- - ![#e16737](https://placehold.co/15x15/e16737/e16737.png) `MATLAB`
+ - ![#555555](https://placehold.co/15x15/555555/555555.png) `C`
 
  <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->  
  <!--- ![#555555](https://placehold.co/15x15/555555/555555.png) `C`-->  
@@ -78,4 +80,4 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
  <!--- ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`-->
 
-*Last updated: October 8th, 2023*
+*Last updated: November 4th, 2023*
