@@ -55,13 +55,15 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- Numerical Methods, Basic Course-->
  <!--- Project in Information and Communication Technology-->
  <!--- Probability Theory and Statistics-->
-  - Algorithms, Data Structures and Complexity
-  - Operating Systems
-  - Internet Security and Privacy
+ <!--- Algorithms, Data Structures and Complexity-->
+ <!--- Operating Systems-->
+ <!--- Internet Security and Privacy-->
+ - Neuroscience
+ - Bachelor Thesis Project
 
 ### Currently working with:
- - ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`
- - ![#555555](https://placehold.co/15x15/555555/555555.png) `C`
+ - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`
+ - ![#DA5B0B](https://placehold.co/15x15/DA5B0B/DA5B0B.png) `Jupyter Notebook`
 
  <!--- ![#b07219](https://placehold.co/15x15/b07219/b07219.png) `Java`-->  
  <!--- ![#555555](https://placehold.co/15x15/555555/555555.png) `C`-->  
@@ -80,4 +82,4 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
  <!--- ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`-->
 
-*Last updated: November 4th, 2023*
+*Last updated: March 20th, 2024*
