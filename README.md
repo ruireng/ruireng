@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Roy and I am a third year student at KTH Royal Institute of Technology.  
   
 **Contact:**
- - royl@kth.se  
+ - royliu.ruirui@gmail.com  
 
 ### My projects:
 Under **Made With**, you can hover over the colored boxes to see what languages were used for each project.
