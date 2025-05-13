@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- is this a comment? -->
-My name is Roy and I am a third year student at KTH Royal Institute of Technology.  
+My name is Roy and I am a fourth year student at KTH Royal Institute of Technology, currently doing exchange studies at ETH Zürich.  
   
 **Contact:**
  - royliu.ruirui@gmail.com  
@@ -60,9 +60,18 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- Internet Security and Privacy-->
  <!--- Neuroscience-->
  <!--- Bachelor Thesis Project-->
+ - Autonomous Mobile Robots
+ - Communication and Detection Theory
+ - Hands-On Deep Learning
+ - Information Retrieval
+ - Model-Based Estimation and Signal Analysis
+ - Principles of Distributed Computing
  - Web Application Development
 
 ### Currently working with:
+ - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`
+ - ![#DA5B0B](https://placehold.co/15x15/DA5B0B/DA5B0B.png) `Jupyter Notebook`
+ - ![#3D6117](https://placehold.co/15x15/3D6117/3D6117.png) `TeX`
  - ![#e34c26](https://placehold.co/15x15/e34c26/e34c26.png) `HTML`
  - ![#563d7c](https://placehold.co/15x15/563d7c/563d7c.png) `CSS`
  - ![#f1e05a](https://placehold.co/15x15/f1e05a/f1e05a.png) `JavaScript`
@@ -84,4 +93,4 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
  <!--- ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`-->
 
-*Last updated: June 5th, 2024*
+*Last updated: May 13th, 2025*
