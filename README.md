@@ -60,13 +60,14 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- Internet Security and Privacy-->
  <!--- Neuroscience-->
  <!--- Bachelor Thesis Project-->
+ <!--- Web Application Development-->
+ - Geographical Information Systems (GIS) - Introduction
  - Autonomous Mobile Robots
  - Communication and Detection Theory
  - Hands-On Deep Learning
  - Information Retrieval
  - Model-Based Estimation and Signal Analysis
  - Principles of Distributed Computing
- - Web Application Development
 
 ### Currently working with:
  - ![#3572A5](https://placehold.co/15x15/3572A5/3572A5.png) `Python`
@@ -93,4 +94,4 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
  <!--- ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`-->
 
-*Last updated: May 13th, 2025*
+*Last updated: June 13th, 2025*
