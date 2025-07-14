@@ -28,7 +28,7 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
 | [Snake](https://github.com/ruisnake/ProjectSnake) | [IS1200 \| Computer Hardware Engineering](https://www.kth.se/student/kurser/kurs/IS1200?l=en) | The classical game Snake made for the UNO32 ChipKIT Microcontroller. | 2 | <img src="https://placehold.co/15x15/555555/555555.png" title="C" alt="C" width="15" height="15"/>&nbsp;<img src="https://placehold.co/15x15/6E4C13/6E4C13.png" title="Assembly" alt="Assembly" width="15" height="15"/>&nbsp; | UNO32 ChipKIT, Game |  
 | [Socket Programming](https://github.com/ruisnake/ProjectSocketProgramming) | [IK1203 \| Networks and Communication](https://www.kth.se/student/kurser/kurs/IK1203?l=en) | A local server capable of returning data from other servers and handling basic HTTP errors. | Solo | <img src="https://placehold.co/15x15/b07219/b07219.png" title="Java" alt="Java" width="15" height="15"/>&nbsp; | Localhost, HTTP Error Handling |  
 | [Numerical Analysis: Dart Throwing](https://github.com/MrFlamadak/NADartThrowing) | [SF1546 \| Numerical Methods, Basic Course](https://www.kth.se/student/kurser/kurs/SF1546?l=en) | A project where different numerical methods were used to find the trajectory of a dart throw. | 2 | <img src="https://placehold.co/15x15/e16737/e16737.png" title="MATLAB" alt="MATLAB" width="15" height="15"/>&nbsp; | Numerical Analysis |  
-| [Swedish Talent Monitor](https://swedishtalentmonitor.com/) <!--https://stmecho-ad215.web.app/ (old link!)-->| [II1305 \| Project in Information and Communication Technology](https://www.kth.se/student/kurser/kurs/II1305?l=en) | A dashboard that can be used as a statistical tool for analyzing the demand in the Swedish job market. An external project made for [Future Place Leadership](https://futureplaceleadership.com/). | 9 | <img src="https://placehold.co/15x15/3572A5/3572A5.png" title="Python" alt="Python" width="15" height="15"/>&nbsp;<img src="https://placehold.co/15x15/f1e05a/f1e05a.png" title="JavaScript" alt="JavaScript" width="15" height="15"/>&nbsp;<img src="https://placehold.co/15x15/563d7c/563d7c.png" title="CSS" alt="CSS" width="15" height="15"/>&nbsp;<img src="https://placehold.co/15x15/e34c26/e34c26.png" title="HTML" alt="HTML" width="15" height="15"/>&nbsp;<img src="https://placehold.co/15x15/e38c00/e38c00.png" title="SQL" alt="SQL" width="15" height="15"/>&nbsp; | Web Scraping, Statistics |  
+| [Swedish Talent Monitor](https://github.com/DiaHassan/II1305-Team-Echo) <!--https://stmecho-ad215.web.app/ (old link!)-->| [II1305 \| Project in Information and Communication Technology](https://www.kth.se/student/kurser/kurs/II1305?l=en) | A dashboard that can be used as a statistical tool for analyzing the demand in the Swedish job market. An external project made for [Future Place Leadership](https://futureplaceleadership.com/). | 9 | <img src="https://placehold.co/15x15/3572A5/3572A5.png" title="Python" alt="Python" width="15" height="15"/>&nbsp;<img src="https://placehold.co/15x15/f1e05a/f1e05a.png" title="JavaScript" alt="JavaScript" width="15" height="15"/>&nbsp;<img src="https://placehold.co/15x15/563d7c/563d7c.png" title="CSS" alt="CSS" width="15" height="15"/>&nbsp;<img src="https://placehold.co/15x15/e34c26/e34c26.png" title="HTML" alt="HTML" width="15" height="15"/>&nbsp;<img src="https://placehold.co/15x15/e38c00/e38c00.png" title="SQL" alt="SQL" width="15" height="15"/>&nbsp; | Web Scraping, Statistics |  
 
 ### Languages and tools I have worked with:
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,c,latex,postgres,elixir,matlab&theme=light)](https://skillicons.dev) -->
@@ -43,7 +43,6 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
@@ -64,7 +63,7 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  - Geographical Information Systems (GIS) - Introduction
  - Autonomous Mobile Robots
  - Communication and Detection Theory
- - Hands-On Deep Learning
+ <!--- Hands-On Deep Learning-->
  - Information Retrieval
  - Model-Based Estimation and Signal Analysis
  - Principles of Distributed Computing
@@ -94,4 +93,4 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- ![#a270ba](https://placehold.co/15x15/a270ba/a270ba.png) `Julia`-->  
  <!--- ![#A97BFF](https://placehold.co/15x15/A97BFF/A97BFF.png) `Kotlin`-->
 
-*Last updated: June 13th, 2025*
+*Last updated: July 15th, 2025*
