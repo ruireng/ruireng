@@ -60,10 +60,10 @@ Under **Made With**, you can hover over the colored boxes to see what languages 
  <!--- Neuroscience-->
  <!--- Bachelor Thesis Project-->
  <!--- Web Application Development-->
+ <!--- Hands-On Deep Learning-->
  - Geographical Information Systems (GIS) - Introduction
  - Autonomous Mobile Robots
  - Communication and Detection Theory
- <!--- Hands-On Deep Learning-->
  - Information Retrieval
  - Model-Based Estimation and Signal Analysis
  - Principles of Distributed Computing
